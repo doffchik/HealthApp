@@ -1,4 +1,7 @@
-SA - 32 \n
-Roman Pruslipskiy \n
-Dyduk Dmytro \n
+SA - 32
+
+Roman Pruslipskiy
+
+Dyduk Dmytro
+
 Oleg Leptsio
