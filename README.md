@@ -1,7 +1,7 @@
 SA - 32
 
-Roman Pruslipskiy
+- Roman Pruslipskiy
 
-Dyduk Dmytro
+- Dyduk Dmytro
 
-Oleg Leptsio
+- Oleg Leptsio
