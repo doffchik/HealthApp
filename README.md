@@ -4,4 +4,4 @@
 
 - Dyduk Dmytro
 
-- Oleg Leptsio
+- Oleg Leptso
